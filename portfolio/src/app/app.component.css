@@ -1,0 +1,21 @@
+div{
+    background-color: aliceblue;
+}
+.fill {
+    height: 75% !important;
+width: 100%;
+position: absolute;
+top: 0;
+left: 0;
+overflow:hidden;
+background-size: cover;
+background-position: center center;
+
+}
+
+.ima{
+    margin-top: 25px;
+    height: 55px;
+    width: 55px;
+    
+    }
